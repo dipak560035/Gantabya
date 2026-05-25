@@ -1,7 +1,6 @@
 
   className,
-  size = "<"div"> & { size?: "default" | "sm" }) {
-  return (
+  size = "<"div"> & { size?: "default" |
     <div
       data-slot="card"
       data-size={size}
