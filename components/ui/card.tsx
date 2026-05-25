@@ -1,6 +1,4 @@
 
-
-function Card({
   className,
   size = "default",
   ...props
