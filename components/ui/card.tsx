@@ -1,11 +1,4 @@
 
-import * as React from "react"
-
-}: React.ComponentProps<"div"> & { size?: "default" | "sm" }) {
-      {...props}
-    />
-  )
-}
 
 function CardHeader({ className, ...props }: React.ComponentProps<"div">) {
   return (
