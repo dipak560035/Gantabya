@@ -5,12 +5,7 @@ export default function Page() {
     <div className="bg-[#111111] text-white h-25">
         <nav className="flex items-center justify-between px-10 py-6">
         
-            <Link href="/" className="hover:text-white transition">Our Bikes</Link>
-            <Link href="/" className="hover:text-white transition">Technology</Link>
-            <Link href="/" className="hover:text-white transition">About Us</Link>
-            <Link href="/" className="hover:text-white transition">Blog</Link>
-            <Link href="/" className="hover:text-white transition">Support</Link>
-            <Link href="/" className="hover:text-white transition">Contact</Link>
+            <Link href="/" className="hover:text-white tran
             </div>
 
      
