@@ -5,11 +5,7 @@ export default function Page() {
     <div className="bg-[#111111] text-white h-25">
         <nav className="flex items-center justify-between px-10 py-6">
         
-            <Link href="/" className="hover:text-white tran
-            </div>
-
-     
-            <button className="bg-[#00d65c] text-black px-8 py-2.5 font-bold rounded-full hover:bg-[#00b34d] transition-colors">
+            <Link href="/" className="hover:text-white trang-[#00b34d] transition-colors">
                  Book Test Ride
 
 
