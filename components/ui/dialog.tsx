@@ -24,17 +24,6 @@ function DialogDescription({
 export {
   Dialog,
   DialogClose,
-  DialogContent,
-  DialogDescription,
-  DialogFooter,
-  DialogHeader,
-  DialogOverlay,
-  DialogPortal,
-  DialogTitle,
-  DialogTrigger,
-}
-
-  return (
     <DialogPrimitive.Overlay
       data-slot="dialog-overlay"
       className={cn(
@@ -43,10 +32,6 @@ export {
       )}
       {...props}
     />
-  )
-}
-
-function DialogContent({
   className,
   children,
   showCloseButton = true,
